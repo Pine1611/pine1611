@@ -19,6 +19,8 @@ Welcome to my GitHub profile! I'm a passionate developer always eager to learn n
 ![Static Badge](https://img.shields.io/badge/SASS-%23CC6699?logo=sass&logoColor=%23CC6699&labelColor=%232A2A2A)
 ![Static Badge](https://img.shields.io/badge/Tailwind%20CSS-%2306B6D4?logo=tailwindcss&logoColor=%2306B6D4&labelColor=%232A2A2A)
 
+![Static Badge](https://img.shields.io/badge/Astro-%20?logo=astro&logoColor=%23BC52EE&labelColor=%23343434&color=%23BC52EE)
+
 ![Static Badge](https://img.shields.io/badge/PHP-%23777BB4?logo=php&logoColor=%23777BB4&labelColor=%232A2A2A)
 ![Static Badge](https://img.shields.io/badge/MySQL-%234479A1?logo=mysql&logoColor=%23FFFFFF&labelColor=%232A2A2A)
 ![Static Badge](https://img.shields.io/badge/Wordpress-%2321759B?logo=wordpress&logoColor=%23FFFFFF&labelColor=%232A2A2A)
