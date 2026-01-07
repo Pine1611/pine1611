@@ -45,8 +45,8 @@ Here are a few things about me:
 | 🎉 [Holidays API][demo-holidays-api]     | ![Static Badge](https://img.shields.io/badge/NodeJS-%235FA04E?logo=nodedotjs&logoColor=%235FA04E&labelColor=%232A2A2A) ![Static Badge](https://img.shields.io/badge/ExpressJS-%23000000?logo=express&logoColor=%23FFFFFF&labelColor=%232A2A2A) ![Static Badge](https://img.shields.io/badge/Javascript-%23F7DF1E?logo=javascript&logoColor=%23F7DF1E&labelColor=%232A2A2A)                                                                                                              |
 | 🎉 [Pomodoro Timer][demo-pomodoro-timer] | ![Static Badge](https://img.shields.io/badge/Javascript-%23F7DF1E?logo=javascript&logoColor=%23F7DF1E&labelColor=%232A2A2A) ![Static Badge](https://img.shields.io/badge/HTML5-%23E34F26?logo=html5&logoColor=%23E34F26&labelColor=%232A2A2A) ![Static Badge](https://img.shields.io/badge/SASS-%23CC6699?logo=sass&logoColor=%23CC6699&labelColor=%232A2A2A)                                                                                                                           |
 
-[demo-unit-converter]: https://webapp-unit-converter.ipine.net
-[demo-weather-track]: https://webapp-weather-track.ipine.net
-[demo-task-tracker]: https://task-tracker.ipine.net/
+[demo-unit-converter]: https://unit-converter.ipine.dev
+[demo-weather-track]: https://weather-track.ipine.dev
+[demo-task-tracker]: https://task-tracker.ipine.dev
 [demo-holidays-api]: https://pine1611.github.io/holidays
 [demo-pomodoro-timer]: https://pine1611.github.io/frontend-projects/21-pomodoro-timer/public/pomodoro.html
